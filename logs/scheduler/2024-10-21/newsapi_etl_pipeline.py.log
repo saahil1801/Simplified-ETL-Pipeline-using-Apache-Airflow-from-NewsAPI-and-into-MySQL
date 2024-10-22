@@ -1,0 +1,119 @@
+[2024-10-21T22:02:50.236+0000] {processor.py:186} INFO - Started process (PID=21) to work on /opt/airflow/dags/newsapi_etl_pipeline.py
+[2024-10-21T22:02:50.236+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/newsapi_etl_pipeline.py for tasks to queue
+[2024-10-21T22:02:50.237+0000] {logging_mixin.py:190} INFO - [2024-10-21T22:02:50.237+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/newsapi_etl_pipeline.py
+[2024-10-21T22:02:50.245+0000] {processor.py:925} INFO - DAG(s) 'newsapi_etl_with_spark' retrieved from /opt/airflow/dags/newsapi_etl_pipeline.py
+[2024-10-21T22:02:50.265+0000] {logging_mixin.py:190} INFO - [2024-10-21T22:02:50.265+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-21T22:02:50.278+0000] {logging_mixin.py:190} INFO - [2024-10-21T22:02:50.278+0000] {dag.py:4180} INFO - Setting next_dagrun for newsapi_etl_with_spark to 2024-10-21 00:00:00+00:00, run_after=2024-10-22 00:00:00+00:00
+[2024-10-21T22:02:50.289+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/newsapi_etl_pipeline.py took 0.056 seconds
+[2024-10-21T22:03:20.576+0000] {processor.py:186} INFO - Started process (PID=163) to work on /opt/airflow/dags/newsapi_etl_pipeline.py
+[2024-10-21T22:03:20.577+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/newsapi_etl_pipeline.py for tasks to queue
+[2024-10-21T22:03:20.582+0000] {logging_mixin.py:190} INFO - [2024-10-21T22:03:20.581+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/newsapi_etl_pipeline.py
+[2024-10-21T22:03:20.608+0000] {processor.py:925} INFO - DAG(s) 'newsapi_etl_with_spark' retrieved from /opt/airflow/dags/newsapi_etl_pipeline.py
+[2024-10-21T22:03:20.636+0000] {logging_mixin.py:190} INFO - [2024-10-21T22:03:20.636+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-21T22:03:20.661+0000] {logging_mixin.py:190} INFO - [2024-10-21T22:03:20.661+0000] {dag.py:4180} INFO - Setting next_dagrun for newsapi_etl_with_spark to 2024-10-21 00:00:00+00:00, run_after=2024-10-22 00:00:00+00:00
+[2024-10-21T22:03:20.685+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/newsapi_etl_pipeline.py took 0.126 seconds
+[2024-10-21T22:03:50.947+0000] {processor.py:186} INFO - Started process (PID=164) to work on /opt/airflow/dags/newsapi_etl_pipeline.py
+[2024-10-21T22:03:50.947+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/newsapi_etl_pipeline.py for tasks to queue
+[2024-10-21T22:03:50.950+0000] {logging_mixin.py:190} INFO - [2024-10-21T22:03:50.950+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/newsapi_etl_pipeline.py
+[2024-10-21T22:03:50.963+0000] {processor.py:925} INFO - DAG(s) 'newsapi_etl_with_spark' retrieved from /opt/airflow/dags/newsapi_etl_pipeline.py
+[2024-10-21T22:03:50.980+0000] {logging_mixin.py:190} INFO - [2024-10-21T22:03:50.980+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-21T22:03:50.993+0000] {logging_mixin.py:190} INFO - [2024-10-21T22:03:50.993+0000] {dag.py:4180} INFO - Setting next_dagrun for newsapi_etl_with_spark to 2024-10-21 00:00:00+00:00, run_after=2024-10-22 00:00:00+00:00
+[2024-10-21T22:03:51.003+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/newsapi_etl_pipeline.py took 0.067 seconds
+[2024-10-21T22:04:21.399+0000] {processor.py:186} INFO - Started process (PID=165) to work on /opt/airflow/dags/newsapi_etl_pipeline.py
+[2024-10-21T22:04:21.401+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/newsapi_etl_pipeline.py for tasks to queue
+[2024-10-21T22:04:21.403+0000] {logging_mixin.py:190} INFO - [2024-10-21T22:04:21.403+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/newsapi_etl_pipeline.py
+[2024-10-21T22:04:21.414+0000] {processor.py:925} INFO - DAG(s) 'newsapi_etl_with_spark' retrieved from /opt/airflow/dags/newsapi_etl_pipeline.py
+[2024-10-21T22:04:21.439+0000] {logging_mixin.py:190} INFO - [2024-10-21T22:04:21.439+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-21T22:04:21.456+0000] {logging_mixin.py:190} INFO - [2024-10-21T22:04:21.456+0000] {dag.py:4180} INFO - Setting next_dagrun for newsapi_etl_with_spark to 2024-10-21 00:00:00+00:00, run_after=2024-10-22 00:00:00+00:00
+[2024-10-21T22:04:21.468+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/newsapi_etl_pipeline.py took 0.076 seconds
+[2024-10-21T22:04:51.823+0000] {processor.py:186} INFO - Started process (PID=166) to work on /opt/airflow/dags/newsapi_etl_pipeline.py
+[2024-10-21T22:04:51.824+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/newsapi_etl_pipeline.py for tasks to queue
+[2024-10-21T22:04:51.826+0000] {logging_mixin.py:190} INFO - [2024-10-21T22:04:51.826+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/newsapi_etl_pipeline.py
+[2024-10-21T22:04:51.836+0000] {processor.py:925} INFO - DAG(s) 'newsapi_etl_with_spark' retrieved from /opt/airflow/dags/newsapi_etl_pipeline.py
+[2024-10-21T22:04:51.852+0000] {logging_mixin.py:190} INFO - [2024-10-21T22:04:51.852+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-21T22:04:51.867+0000] {logging_mixin.py:190} INFO - [2024-10-21T22:04:51.866+0000] {dag.py:4180} INFO - Setting next_dagrun for newsapi_etl_with_spark to 2024-10-21 00:00:00+00:00, run_after=2024-10-22 00:00:00+00:00
+[2024-10-21T22:04:51.878+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/newsapi_etl_pipeline.py took 0.063 seconds
+[2024-10-21T22:05:22.217+0000] {processor.py:186} INFO - Started process (PID=167) to work on /opt/airflow/dags/newsapi_etl_pipeline.py
+[2024-10-21T22:05:22.218+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/newsapi_etl_pipeline.py for tasks to queue
+[2024-10-21T22:05:22.220+0000] {logging_mixin.py:190} INFO - [2024-10-21T22:05:22.220+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/newsapi_etl_pipeline.py
+[2024-10-21T22:05:22.231+0000] {processor.py:925} INFO - DAG(s) 'newsapi_etl_with_spark' retrieved from /opt/airflow/dags/newsapi_etl_pipeline.py
+[2024-10-21T22:05:22.248+0000] {logging_mixin.py:190} INFO - [2024-10-21T22:05:22.248+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-21T22:05:22.260+0000] {logging_mixin.py:190} INFO - [2024-10-21T22:05:22.260+0000] {dag.py:4180} INFO - Setting next_dagrun for newsapi_etl_with_spark to 2024-10-21 00:00:00+00:00, run_after=2024-10-22 00:00:00+00:00
+[2024-10-21T22:05:22.271+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/newsapi_etl_pipeline.py took 0.062 seconds
+[2024-10-21T22:05:52.723+0000] {processor.py:186} INFO - Started process (PID=168) to work on /opt/airflow/dags/newsapi_etl_pipeline.py
+[2024-10-21T22:05:52.724+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/newsapi_etl_pipeline.py for tasks to queue
+[2024-10-21T22:05:52.727+0000] {logging_mixin.py:190} INFO - [2024-10-21T22:05:52.726+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/newsapi_etl_pipeline.py
+[2024-10-21T22:05:52.739+0000] {processor.py:925} INFO - DAG(s) 'newsapi_etl_with_spark' retrieved from /opt/airflow/dags/newsapi_etl_pipeline.py
+[2024-10-21T22:05:52.756+0000] {logging_mixin.py:190} INFO - [2024-10-21T22:05:52.756+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-21T22:05:52.768+0000] {logging_mixin.py:190} INFO - [2024-10-21T22:05:52.768+0000] {dag.py:4180} INFO - Setting next_dagrun for newsapi_etl_with_spark to 2024-10-21 00:00:00+00:00, run_after=2024-10-22 00:00:00+00:00
+[2024-10-21T22:05:52.778+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/newsapi_etl_pipeline.py took 0.062 seconds
+[2024-10-21T22:06:23.162+0000] {processor.py:186} INFO - Started process (PID=169) to work on /opt/airflow/dags/newsapi_etl_pipeline.py
+[2024-10-21T22:06:23.163+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/newsapi_etl_pipeline.py for tasks to queue
+[2024-10-21T22:06:23.165+0000] {logging_mixin.py:190} INFO - [2024-10-21T22:06:23.165+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/newsapi_etl_pipeline.py
+[2024-10-21T22:06:23.177+0000] {processor.py:925} INFO - DAG(s) 'newsapi_etl_with_spark' retrieved from /opt/airflow/dags/newsapi_etl_pipeline.py
+[2024-10-21T22:06:23.193+0000] {logging_mixin.py:190} INFO - [2024-10-21T22:06:23.193+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-21T22:06:23.204+0000] {logging_mixin.py:190} INFO - [2024-10-21T22:06:23.204+0000] {dag.py:4180} INFO - Setting next_dagrun for newsapi_etl_with_spark to 2024-10-21 00:00:00+00:00, run_after=2024-10-22 00:00:00+00:00
+[2024-10-21T22:06:23.215+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/newsapi_etl_pipeline.py took 0.062 seconds
+[2024-10-21T22:06:53.594+0000] {processor.py:186} INFO - Started process (PID=170) to work on /opt/airflow/dags/newsapi_etl_pipeline.py
+[2024-10-21T22:06:53.595+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/newsapi_etl_pipeline.py for tasks to queue
+[2024-10-21T22:06:53.597+0000] {logging_mixin.py:190} INFO - [2024-10-21T22:06:53.597+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/newsapi_etl_pipeline.py
+[2024-10-21T22:06:53.608+0000] {processor.py:925} INFO - DAG(s) 'newsapi_etl_with_spark' retrieved from /opt/airflow/dags/newsapi_etl_pipeline.py
+[2024-10-21T22:06:53.625+0000] {logging_mixin.py:190} INFO - [2024-10-21T22:06:53.625+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-21T22:06:53.636+0000] {logging_mixin.py:190} INFO - [2024-10-21T22:06:53.636+0000] {dag.py:4180} INFO - Setting next_dagrun for newsapi_etl_with_spark to 2024-10-21 00:00:00+00:00, run_after=2024-10-22 00:00:00+00:00
+[2024-10-21T22:06:53.645+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/newsapi_etl_pipeline.py took 0.059 seconds
+[2024-10-21T22:08:08.645+0000] {processor.py:186} INFO - Started process (PID=160) to work on /opt/airflow/dags/newsapi_etl_pipeline.py
+[2024-10-21T22:08:08.646+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/newsapi_etl_pipeline.py for tasks to queue
+[2024-10-21T22:08:08.648+0000] {logging_mixin.py:190} INFO - [2024-10-21T22:08:08.648+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/newsapi_etl_pipeline.py
+[2024-10-21T22:08:08.661+0000] {processor.py:925} INFO - DAG(s) 'newsapi_etl_with_spark' retrieved from /opt/airflow/dags/newsapi_etl_pipeline.py
+[2024-10-21T22:08:08.683+0000] {logging_mixin.py:190} INFO - [2024-10-21T22:08:08.682+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-21T22:08:08.700+0000] {logging_mixin.py:190} INFO - [2024-10-21T22:08:08.700+0000] {dag.py:4180} INFO - Setting next_dagrun for newsapi_etl_with_spark to 2024-10-21 00:00:00+00:00, run_after=2024-10-22 00:00:00+00:00
+[2024-10-21T22:08:08.720+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/newsapi_etl_pipeline.py took 0.078 seconds
+[2024-10-21T22:08:38.797+0000] {processor.py:186} INFO - Started process (PID=165) to work on /opt/airflow/dags/newsapi_etl_pipeline.py
+[2024-10-21T22:08:38.797+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/newsapi_etl_pipeline.py for tasks to queue
+[2024-10-21T22:08:38.798+0000] {logging_mixin.py:190} INFO - [2024-10-21T22:08:38.798+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/newsapi_etl_pipeline.py
+[2024-10-21T22:08:38.804+0000] {processor.py:925} INFO - DAG(s) 'newsapi_etl_with_spark' retrieved from /opt/airflow/dags/newsapi_etl_pipeline.py
+[2024-10-21T22:08:38.816+0000] {logging_mixin.py:190} INFO - [2024-10-21T22:08:38.816+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-21T22:08:38.827+0000] {logging_mixin.py:190} INFO - [2024-10-21T22:08:38.827+0000] {dag.py:4180} INFO - Setting next_dagrun for newsapi_etl_with_spark to 2024-10-20 00:00:00+00:00, run_after=2024-10-21 00:00:00+00:00
+[2024-10-21T22:08:38.836+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/newsapi_etl_pipeline.py took 0.042 seconds
+[2024-10-21T22:09:09.024+0000] {processor.py:186} INFO - Started process (PID=453) to work on /opt/airflow/dags/newsapi_etl_pipeline.py
+[2024-10-21T22:09:09.025+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/newsapi_etl_pipeline.py for tasks to queue
+[2024-10-21T22:09:09.027+0000] {logging_mixin.py:190} INFO - [2024-10-21T22:09:09.027+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/newsapi_etl_pipeline.py
+[2024-10-21T22:09:09.039+0000] {processor.py:925} INFO - DAG(s) 'newsapi_etl_with_spark' retrieved from /opt/airflow/dags/newsapi_etl_pipeline.py
+[2024-10-21T22:09:09.057+0000] {logging_mixin.py:190} INFO - [2024-10-21T22:09:09.057+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-21T22:09:09.070+0000] {logging_mixin.py:190} INFO - [2024-10-21T22:09:09.070+0000] {dag.py:4180} INFO - Setting next_dagrun for newsapi_etl_with_spark to 2024-10-20 00:00:00+00:00, run_after=2024-10-21 00:00:00+00:00
+[2024-10-21T22:09:09.079+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/newsapi_etl_pipeline.py took 0.062 seconds
+[2024-10-21T22:09:39.432+0000] {processor.py:186} INFO - Started process (PID=599) to work on /opt/airflow/dags/newsapi_etl_pipeline.py
+[2024-10-21T22:09:39.433+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/newsapi_etl_pipeline.py for tasks to queue
+[2024-10-21T22:09:39.435+0000] {logging_mixin.py:190} INFO - [2024-10-21T22:09:39.435+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/newsapi_etl_pipeline.py
+[2024-10-21T22:09:39.446+0000] {processor.py:925} INFO - DAG(s) 'newsapi_etl_with_spark' retrieved from /opt/airflow/dags/newsapi_etl_pipeline.py
+[2024-10-21T22:09:39.461+0000] {logging_mixin.py:190} INFO - [2024-10-21T22:09:39.461+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-21T22:09:39.473+0000] {logging_mixin.py:190} INFO - [2024-10-21T22:09:39.473+0000] {dag.py:4180} INFO - Setting next_dagrun for newsapi_etl_with_spark to 2024-10-21 00:00:00+00:00, run_after=2024-10-22 00:00:00+00:00
+[2024-10-21T22:09:39.481+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/newsapi_etl_pipeline.py took 0.056 seconds
+[2024-10-21T22:10:09.857+0000] {processor.py:186} INFO - Started process (PID=604) to work on /opt/airflow/dags/newsapi_etl_pipeline.py
+[2024-10-21T22:10:09.859+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/newsapi_etl_pipeline.py for tasks to queue
+[2024-10-21T22:10:09.861+0000] {logging_mixin.py:190} INFO - [2024-10-21T22:10:09.861+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/newsapi_etl_pipeline.py
+[2024-10-21T22:10:09.873+0000] {processor.py:925} INFO - DAG(s) 'newsapi_etl_with_spark' retrieved from /opt/airflow/dags/newsapi_etl_pipeline.py
+[2024-10-21T22:10:09.891+0000] {logging_mixin.py:190} INFO - [2024-10-21T22:10:09.891+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-21T22:10:09.905+0000] {logging_mixin.py:190} INFO - [2024-10-21T22:10:09.905+0000] {dag.py:4180} INFO - Setting next_dagrun for newsapi_etl_with_spark to 2024-10-21 00:00:00+00:00, run_after=2024-10-22 00:00:00+00:00
+[2024-10-21T22:10:09.917+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/newsapi_etl_pipeline.py took 0.068 seconds
+[2024-10-21T22:10:40.225+0000] {processor.py:186} INFO - Started process (PID=613) to work on /opt/airflow/dags/newsapi_etl_pipeline.py
+[2024-10-21T22:10:40.226+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/newsapi_etl_pipeline.py for tasks to queue
+[2024-10-21T22:10:40.227+0000] {logging_mixin.py:190} INFO - [2024-10-21T22:10:40.227+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/newsapi_etl_pipeline.py
+[2024-10-21T22:10:40.237+0000] {processor.py:925} INFO - DAG(s) 'newsapi_etl_with_spark' retrieved from /opt/airflow/dags/newsapi_etl_pipeline.py
+[2024-10-21T22:10:40.253+0000] {logging_mixin.py:190} INFO - [2024-10-21T22:10:40.253+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-21T22:10:40.265+0000] {logging_mixin.py:190} INFO - [2024-10-21T22:10:40.265+0000] {dag.py:4180} INFO - Setting next_dagrun for newsapi_etl_with_spark to 2024-10-20 00:00:00+00:00, run_after=2024-10-21 00:00:00+00:00
+[2024-10-21T22:10:40.273+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/newsapi_etl_pipeline.py took 0.054 seconds
+[2024-10-21T22:11:10.594+0000] {processor.py:186} INFO - Started process (PID=758) to work on /opt/airflow/dags/newsapi_etl_pipeline.py
+[2024-10-21T22:11:10.594+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/newsapi_etl_pipeline.py for tasks to queue
+[2024-10-21T22:11:10.596+0000] {logging_mixin.py:190} INFO - [2024-10-21T22:11:10.595+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/newsapi_etl_pipeline.py
+[2024-10-21T22:11:10.603+0000] {processor.py:925} INFO - DAG(s) 'newsapi_etl_with_spark' retrieved from /opt/airflow/dags/newsapi_etl_pipeline.py
+[2024-10-21T22:11:10.616+0000] {logging_mixin.py:190} INFO - [2024-10-21T22:11:10.616+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-21T22:11:10.626+0000] {logging_mixin.py:190} INFO - [2024-10-21T22:11:10.626+0000] {dag.py:4180} INFO - Setting next_dagrun for newsapi_etl_with_spark to 2024-10-21 00:00:00+00:00, run_after=2024-10-22 00:00:00+00:00
+[2024-10-21T22:11:10.636+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/newsapi_etl_pipeline.py took 0.047 seconds
+[2024-10-21T22:11:40.960+0000] {processor.py:186} INFO - Started process (PID=909) to work on /opt/airflow/dags/newsapi_etl_pipeline.py
+[2024-10-21T22:11:40.961+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/newsapi_etl_pipeline.py for tasks to queue
+[2024-10-21T22:11:40.962+0000] {logging_mixin.py:190} INFO - [2024-10-21T22:11:40.962+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/newsapi_etl_pipeline.py
+[2024-10-21T22:11:40.971+0000] {processor.py:925} INFO - DAG(s) 'newsapi_etl_with_spark' retrieved from /opt/airflow/dags/newsapi_etl_pipeline.py
+[2024-10-21T22:11:40.985+0000] {logging_mixin.py:190} INFO - [2024-10-21T22:11:40.985+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-21T22:11:40.996+0000] {logging_mixin.py:190} INFO - [2024-10-21T22:11:40.996+0000] {dag.py:4180} INFO - Setting next_dagrun for newsapi_etl_with_spark to 2024-10-20 00:00:00+00:00, run_after=2024-10-21 00:00:00+00:00
+[2024-10-21T22:11:41.005+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/newsapi_etl_pipeline.py took 0.051 seconds
